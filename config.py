@@ -1,0 +1,1 @@
+"hotel_api_key=ed6b78b7b8edbc7d0fb93a75c7b3a308"
