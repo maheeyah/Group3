@@ -1,4 +1,4 @@
-City_ID,origin,destination,price,main_airline,depart_date,transfers,duration,link,distance,found_at,gate,trip_class
+,origin,destination,price,main_airline,depart_date,transfers,duration,link,distance,found_at,gate,trip_class
 0,PHX,LAX,60,NK,2023-05-14T20:50:00-07:00,1,2707,/search/PHX1405LAX1?t=NK16841226001684285020002707PHXLASLAX_aa9447315573352602ae60e2393d1b8a_4690&search_date=04052023&expected_price_uuid=f9323688-441e-4b61-bf39-41224263c27a&expected_price_currency=rub,595,2023-05-04T23:35:26Z,Kupi.com,0
 1,PHX,LAX,64,NK,2023-05-16T20:50:00-07:00,1,620,/search/PHX1605LAX1?t=NK16842954001684332600000620PHXLASLAX_dcd239beae99277eaecc8fa1a292c971_5040&search_date=04052023&expected_price_uuid=c570dfc2-93f8-428e-ba5b-96dea1c9e476&expected_price_currency=rub,595,2023-05-04T23:52:50Z,Clickavia,0
 2,PHX,LAX,78,NK,2023-05-13T20:50:00-07:00,1,2060,/search/PHX1305LAX1?t=NK16840362001684159800002060PHXLASLAX_296e4ab3ef625fe49c38e345a805c9a1_6189&search_date=03052023&expected_price_uuid=e9d143de-bf28-4d8d-869a-ca4ca852c3e0&expected_price_currency=rub,595,2023-05-03T23:19:08Z,Kupi.com,0
