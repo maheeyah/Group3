@@ -26,3 +26,18 @@ Howard Heng, Zach Kriegshauser, Adrian Leon, Kess Mogun, Maheeyah Mukarram
   *  Machine Learning Model: Python (pandas, numpy?, sci-kit learn?, tensorflow?), Jupyter Notebook, csv file
   *  Dashboard: Tableau
 [link to dashboard](https://public.tableau.com/app/profile/maheeyah.mukarram/viz/Group3FinalProjectPresentation/GroupPresentation?publish=yes)
+
+#### Results
+![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/MostPopularAirline.png)
+The most popular destination from PHX are LAX and MIA being following. The least popular destinations are CHI and LAS, tied at 223 plane tickets. 
+
+![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/MostPopularDestinations.png)
+The most popular airline is F9 with 459 plane tickets, and UA is in second place with 230 plane tickets. 
+
+![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/AveragePricebasedonDestination.png)
+PHX to MIA is the most expensive plane ticket averaging around $451.7, and PHX to LAX is the cheapest plane ticket averaging around $147.80. 
+
+![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/AveragePricebasedonAirline.png)
+F9 has the lowest average price for plane tickets at $140.20.
+
+![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/NumberofFlightsbasedoffofMonth.png)
