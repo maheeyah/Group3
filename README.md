@@ -10,7 +10,7 @@ Air travel is one of the fastest and most popular means of travel today within d
 2. Which airline/airport is the most desired?
 3. What are the average price for plane tickets based on airline and airport?
 
-* Data Exploration Phase 
+#### Data Exploration Phase 
 The data exploration phase involves analyzing the flight price data retrieved from the TravelPayouts API. 
 1. Load the data: Load the flight price data from a CSV file into a structured format, such as a Pandas DataFrame.
 2. Inspect the data: Understand the data structure, column names, and data quality using various functions.
@@ -24,7 +24,7 @@ The data exploration phase helps in understanding the data, identifying patterns
 
 ![This is an image](https://github.com/maheeyah/Group3/blob/main/QuickDBD-export%20(1).png)
 
-* Analysis Phase 
+#### Analysis Phase 
 The analysis phase aims to understand the data, extract insights, and provide actionable recommendations. It involves defining objectives, selecting techniques, preprocessing data, conducting analysis, building models, exploring data, interpreting results, communicating insights, and iterating as needed.
 1. Define objectives: Clearly state the goals of the analysis.
 2. Select techniques: Choose appropriate methods for analyzing the data.
