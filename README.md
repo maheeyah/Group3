@@ -12,13 +12,13 @@ Air travel is one of the fastest and most popular means of travel today within d
 
 * Data Exploration Phase 
 The data exploration phase involves analyzing the flight price data retrieved from the TravelPayouts API. 
-Load the data: Load the flight price data from a CSV file into a structured format, such as a Pandas DataFrame.
-Inspect the data: Understand the data structure, column names, and data quality using various functions.
-Clean the data: Handle missing values, duplicates, or incorrect data types to ensure data reliability.
-Visualize the data: Create visualizations to identify patterns and trends.
-Compute descriptive statistics: Calculate summary statistics to understand popular destinations, airlines, and variations.
-Analyze the data: Conduct further analysis based on project goals, such as comparing most visited cities or investigating correlations with popular airlines.
-Generate insights: Extract key insights and findings from the data exploration, which may guide decisions, future analysis, or reporting.
+1. Load the data: Load the flight price data from a CSV file into a structured format, such as a Pandas DataFrame.
+2. Inspect the data: Understand the data structure, column names, and data quality using various functions.
+3. Clean the data: Handle missing values, duplicates, or incorrect data types to ensure data reliability.
+4. Visualize the data: Create visualizations to identify patterns and trends
+5. Compute descriptive statistics: Calculate summary statistics to understand popular destinations, airlines, and variations.
+6. Analyze the data: Conduct further analysis based on project goals, such as comparing most visited cities or investigating correlations with popular airlines.
+7. Generate insights: Extract key insights and findings from the data exploration, which may guide decisions, future analysis, or reporting.
 The data exploration phase helps in understanding the data, identifying patterns, and deriving meaningful insights for decision-making.
 
 
@@ -26,16 +26,15 @@ The data exploration phase helps in understanding the data, identifying patterns
 
 * Analysis Phase 
 The analysis phase aims to understand the data, extract insights, and provide actionable recommendations. It involves defining objectives, selecting techniques, preprocessing data, conducting analysis, building models, exploring data, interpreting results, communicating insights, and iterating as needed.
-Define objectives: Clearly state the goals of the analysis.
-Select techniques: Choose appropriate methods for analyzing the data.
-Preprocess data: Prepare the data by cleaning and transforming it.
-Conduct analysis: Apply statistical methods and machine learning algorithms to identify patterns and trends.
-Build models: Develop predictive models to forecast flight prices or classify them.
-Explore data: Use visualizations and interactive tools to gain insights.
-Interpret and validate results: Understand and validate the findings.
-Communicate insights: Present the analysis findings clearly and concisely.
-Iterate and refine: Improve the analysis based on feedback and additional requirements.
-
+1. Define objectives: Clearly state the goals of the analysis.
+2. Select techniques: Choose appropriate methods for analyzing the data.
+3. Preprocess data: Prepare the data by cleaning and transforming it.
+4. Conduct analysis: Apply statistical methods and machine learning algorithms to identify patterns and trends.
+5. Build models: Develop predictive models to forecast flight prices or classify them.
+6. Explore data: Use visualizations and interactive tools to gain insights.
+7. Interpret and validate results: Understand and validate the findings.
+8. Communicate insights: Present the analysis findings clearly and concisely.
+9. Iterate and refine: Improve the analysis based on feedback and additional requirements.
 
 ### Technologies Used
   *  Data Transformation: Python(pandas, ), JupyterNotebook, ERD www.quickdatabasediagrams.com, API https://travelpayouts.github.io/, csv file
