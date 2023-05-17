@@ -64,4 +64,4 @@ F9 has the lowest average price for plane tickets at $140.20.
 ![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/NumberofFlightsbasedoffofMonth.png)
 
 ### Presentation
-A Google Slides Presentation summarizing our project can be found here. (https://docs.google.com/presentation/d/1kqk083NepjKRtXWzA-YXX7VjwhMnhpV0idJI0yFbv9w/edit?usp=sharing)
+A Google Slides Presentation summarizing our project can be found here: https://docs.google.com/presentation/d/1kqk083NepjKRtXWzA-YXX7VjwhMnhpV0idJI0yFbv9w/edit?usp=sharing
