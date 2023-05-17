@@ -10,13 +10,32 @@ Air travel is one of the fastest and most popular means of travel today within d
 2. Which airline/airport is the most desired?
 3. What are the average price for plane tickets based on airline and airport?
 
-* A description of the data exploration phase of the project (5 points)
-   * To answer these questions we are going to use the API provided by https://travelpayouts.github.io/slate/?python#about-api. There are many API calls that the website provides. We created an Entity Relationship Diagram (ERD) to organize the data and to see which API calls are the most effective for the purposes of the project. We decided to use "Tickets for each day of a month", "The prices for the alternative directions" and "Popular airlines" API Calls. Below is our ERD.  The data includes flight information regarding origin, destination, price, transfers, airline, flight number, departure date, return date, and expiration date. 
+* Data Exploration Phase 
+The data exploration phase involves analyzing the flight price data retrieved from the TravelPayouts API. 
+Load the data: Load the flight price data from a CSV file into a structured format, such as a Pandas DataFrame.
+Inspect the data: Understand the data structure, column names, and data quality using various functions.
+Clean the data: Handle missing values, duplicates, or incorrect data types to ensure data reliability.
+Visualize the data: Create visualizations to identify patterns and trends.
+Compute descriptive statistics: Calculate summary statistics to understand popular destinations, airlines, and variations.
+Analyze the data: Conduct further analysis based on project goals, such as comparing most visited cities or investigating correlations with popular airlines.
+Generate insights: Extract key insights and findings from the data exploration, which may guide decisions, future analysis, or reporting.
+The data exploration phase helps in understanding the data, identifying patterns, and deriving meaningful insights for decision-making.
+
 
 ![This is an image](https://github.com/maheeyah/Group3/blob/main/QuickDBD-export%20(1).png)
 
-* A description of the analysis phase of the project (5 points)
-   * Initially, the cvs was imported into a SQL database and queries were made to answer the question regarding what were the most popular cities to visit and which airline/airport is the most desired. Then the cvs was imported into Tableau to create worksheets that can be used for the presentation of this data.  
+* Analysis Phase 
+The analysis phase aims to understand the data, extract insights, and provide actionable recommendations. It involves defining objectives, selecting techniques, preprocessing data, conducting analysis, building models, exploring data, interpreting results, communicating insights, and iterating as needed.
+Define objectives: Clearly state the goals of the analysis.
+Select techniques: Choose appropriate methods for analyzing the data.
+Preprocess data: Prepare the data by cleaning and transforming it.
+Conduct analysis: Apply statistical methods and machine learning algorithms to identify patterns and trends.
+Build models: Develop predictive models to forecast flight prices or classify them.
+Explore data: Use visualizations and interactive tools to gain insights.
+Interpret and validate results: Understand and validate the findings.
+Communicate insights: Present the analysis findings clearly and concisely.
+Iterate and refine: Improve the analysis based on feedback and additional requirements.
+
 
 ### Technologies Used
   *  Data Transformation: Python(pandas, ), JupyterNotebook, ERD www.quickdatabasediagrams.com, API https://travelpayouts.github.io/, csv file
@@ -26,7 +45,7 @@ Air travel is one of the fastest and most popular means of travel today within d
  
 [link to dashboard](https://public.tableau.com/app/profile/maheeyah.mukarram/viz/Group3FinalProjectPresentation1/GroupPresentation?publish=yes)
 
-#### Results
+### Results
 ![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/MostPopularAirline.png)
 
 The most popular destination from PHX are LAX and MIA being following. The least popular destinations are CHI and LAS, tied at 223 plane tickets. 
@@ -46,5 +65,4 @@ F9 has the lowest average price for plane tickets at $140.20.
 ![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/NumberofFlightsbasedoffofMonth.png)
 
 ### Presentation
-A Google Slides Presentation summarizing our project can be found here. 
-[link to powerpoint] (https://docs.google.com/presentation/d/1kqk083NepjKRtXWzA-YXX7VjwhMnhpV0idJI0yFbv9w/edit?usp=sharing)
+A Google Slides Presentation summarizing our project can be found here. (https://docs.google.com/presentation/d/1kqk083NepjKRtXWzA-YXX7VjwhMnhpV0idJI0yFbv9w/edit?usp=sharing)
