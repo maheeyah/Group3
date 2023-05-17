@@ -2,10 +2,10 @@
 ## Contributors
 Howard Heng, Zach Kriegshauser, Adrian Leon, Kess Mogun, Maheeyah Mukarram
 
-### Project Overview
+## Project Overview
 Air travel is one of the fastest and most popular means of travel today within different states and outside of the United states. The US air industry is highly competitive, and connects thousands of passengers daily across the country. The purpose of this analysis is assist Take Flight Travel Agency to determine the best cities, airports, and holiday destinations by using airline flight information, pricing, departure dates, etc. for decision making for their customers.
 
- ### Project Questions
+### Project Questions
 1. What are the most popular cities to visit?
 2. Which airline/airport is the most desired?
 3. What are the average price for plane tickets based on airline and airport?
@@ -21,7 +21,6 @@ The data exploration phase involves analyzing the flight price data retrieved fr
 7. Generate insights: Extract key insights and findings from the data exploration, which may guide decisions, future analysis, or reporting.
 The data exploration phase helps in understanding the data, identifying patterns, and deriving meaningful insights for decision-making.
 
-
 ![This is an image](https://github.com/maheeyah/Group3/blob/main/QuickDBD-export%20(1).png)
 
 #### Analysis Phase 
@@ -36,15 +35,19 @@ The analysis phase aims to understand the data, extract insights, and provide ac
 8. Communicate insights: Present the analysis findings clearly and concisely.
 9. Iterate and refine: Improve the analysis based on feedback and additional requirements.
 
-### Technologies Used
-  *  Data Transformation: Python(pandas, ), JupyterNotebook, ERD www.quickdatabasediagrams.com, API https://travelpayouts.github.io/, csv file
-  *  Database: pgAdmin, Microsoft Excel
-  *  Machine Learning Model: Python (pandas, pathlib, matplotlib.pyplot, sklearn.linear_model, sklearn.metrics), Jupyter Notebook, csv file
-  *  Dashboard: Tableau
+## Technologies Used
+  #### Data Transformation:
+  Python(pandas), JupyterNotebook, ERD www.quickdatabasediagrams.com, API https://travelpayouts.github.io/, csv file
+  #### Database: 
+  pgAdmin, Microsoft Excel
+  #### Machine Learning Model:
+  Python (pandas, pathlib, matplotlib.pyplot, sklearn.linear_model, sklearn.metrics), Jupyter Notebook, csv file
+  #### Dashboard: 
+  Tableau
  
 [link to dashboard](https://public.tableau.com/app/profile/maheeyah.mukarram/viz/Group3FinalProjectPresentation1/GroupPresentation?publish=yes)
 
-### Results
+## Results
 ![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/MostPopularAirline.png)
 
 The most popular destination from PHX are LAX and MIA being following. The least popular destinations are CHI and LAS, tied at 223 plane tickets. 
@@ -63,5 +66,5 @@ F9 has the lowest average price for plane tickets at $140.20.
 
 ![This is an image](https://github.com/maheeyah/Group3/blob/Maheeyah/NumberofFlightsbasedoffofMonth.png)
 
-### Presentation
+## Presentation
 A Google Slides Presentation summarizing our project can be found here: https://docs.google.com/presentation/d/1kqk083NepjKRtXWzA-YXX7VjwhMnhpV0idJI0yFbv9w/edit?usp=sharing
